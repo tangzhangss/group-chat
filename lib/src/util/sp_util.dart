@@ -32,4 +32,9 @@ class SpUtil {
     if (checkInit()) return null;
     return spf.getString(key);
   }
+
+  Future<bool> removeKey(String key){
+    if (checkInit()) return null;
+    return spf.remove(key);
+  }
 }

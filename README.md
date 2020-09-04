@@ -10,3 +10,10 @@
 
 	目前仅含注册聊天功能后续有空再做...
 
+## 图片展示
+	
+	![首页](https://assist-tool.oss-cn-beijing.aliyuncs.com/tangzhangss/groupchat_v1.0.0/00.jpg)
+	![首页](https://assist-tool.oss-cn-beijing.aliyuncs.com/tangzhangss/groupchat_v1.0.0/01.jpg)
+	![通讯录](https://assist-tool.oss-cn-beijing.aliyuncs.com/tangzhangss/groupchat_v1.0.0/1.jpg)
+	![聊天室](https://assist-tool.oss-cn-beijing.aliyuncs.com/tangzhangss/groupchat_v1.0.0/11.jpg)
+	![我的](https://assist-tool.oss-cn-beijing.aliyuncs.com/tangzhangss/groupchat_v1.0.0/2.jpg)
